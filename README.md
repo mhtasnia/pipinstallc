@@ -23,6 +23,8 @@
 - [🛠 Tech Stack](#-tech-stack)
 - [🧑‍💻 Getting Started](#-getting-started)
 - [📏 Development Guidelines](#-development-guidelines)
+- [📘 View Devlog](devlog.md)
+
 
 
 ---
